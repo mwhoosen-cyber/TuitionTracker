@@ -1,0 +1,2 @@
+const SUPABASE_URL = 'https://piyalczlxymlsilzpoqa.supabase.co';
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBpeWFsY3pseHltbHNpbHpwb3FhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODA2NTU1OTYsImV4cCI6MjA5NjIzMTU5Nn0.z10hdn2wTTD5tn5qQnmP-uDDk8ytVlCNqtX9gSYNkBE';
